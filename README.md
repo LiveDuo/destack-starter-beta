@@ -20,7 +20,7 @@ Deploy the example using [Vercel](https://vercel.com) or preview in Gitpod:
 
 Clone this repository:
 ```sh
-git clone https://github.com/liveduo/destack-starter
+git clone https://github.com/liveduo/destack-starter-beta
 ```
 Install dependencies:
 ```sh
