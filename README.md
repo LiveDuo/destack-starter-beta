@@ -9,9 +9,9 @@ This example shows a very basic version of the a *Destack* (beta) with Next.js.
 
 Deploy the example using [Vercel](https://vercel.com) or preview in Gitpod:
 
-[<img src="https://github.com/LiveDuo/destack/raw/main/assets/vercel_big.png" width="92">](https://vercel.com/new/git/external?repository-url=https://github.com/LiveDuo/destack-starter-beta&project-name=destack-starter-beta&repository-name=destack-starter-beta)
+[<img src="https://raw.githubusercontent.com/LiveDuo/destack/main/assets/deploy/vercel_big.png" width="92">](https://vercel.com/new/git/external?repository-url=https://github.com/LiveDuo/destack-starter-beta&project-name=destack-starter-beta&repository-name=destack-starter-beta)
 &nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/LiveDuo/destack/raw/main/assets/gitpod_big.png" width="92">](https://gitpod.io/#https://github.com/LiveDuo/destack-starter-beta)
+[<img src="https://raw.githubusercontent.com/LiveDuo/destack/main/assets/deploy/gitpod_big.png" width="92">](https://gitpod.io/#https://github.com/LiveDuo/destack-starter-beta)
 
 
 ## How to
