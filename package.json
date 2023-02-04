@@ -8,7 +8,7 @@
     "export": "next build && next export"
   },
   "dependencies": {
-    "destack": "^1.0.37",
+    "destack": "^2.0.2",
     "next": "^13.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
